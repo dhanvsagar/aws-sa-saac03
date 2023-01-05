@@ -11,10 +11,10 @@ Eg: ```pwgen 8 1```
 2. Account -> Add alternate contacts 
 3. IAM user and role access to billing information -> Activate IAM user
 4. Create budget and alarm
-  4.1  Billing Dashboard -> Billing preferences -> enable all, add email for alerts
-  4.2  Budgets-> Cost explorer -> Enable cost explorer
-  4.3  Budgets->customize->Cost Budget
-  4.4   Create alerts
+  * Billing Dashboard -> Billing preferences -> enable all, add email for alerts
+  * Budgets-> Cost explorer -> Enable cost explorer
+  * Budgets->customize->Cost Budget
+  * Create alerts
 5. IAM -> Create account alias for easy login url will be ```https://<alias>.signin.aws.amazon.com/console``` (needs to be globally unique)
 6. Create an admin user\
     IAM->Users->Add User (username doesnt have to be globally unique, as it's only within the account)\
