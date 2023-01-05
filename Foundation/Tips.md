@@ -17,7 +17,7 @@ Eg: ```pwgen 8 1```
   4.4   Create alerts
 5. IAM -> Create account alias for easy login url will be ```https://<alias>.signin.aws.amazon.com/console``` (needs to be globally unique)
 6. Create an admin user
-    IAM->Users->Add User (username doesnt have to be globally unique, as it's only within the account)
-    Attach existing  "Adimistrator Access" policy
-    Secure Admin User (My security credentials -> Add MFA for the admin user)
+    IAM->Users->Add User (username doesnt have to be globally unique, as it's only within the account)\
+    Attach existing  "Adimistrator Access" policy\
+    Secure Admin User (My security credentials -> Add MFA for the admin user)\
  
