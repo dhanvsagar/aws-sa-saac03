@@ -11,7 +11,7 @@ Eg: ```pwgen 8 1```
 2. Account -> Add alternate contacts 
 3. IAM user and role access to billing information -> Activate IAM user
 4. Create budget and alarm
-4.1.  Billing Dashboard -> Billing preferences -> enable all, add email for alerts
-4.2.  Budgets-> Cost explorer -> Enable cost explorer
-4.3.  Budgets->customize->Cost Budget
-4.4   Create alerts
+  4.1.  Billing Dashboard -> Billing preferences -> enable all, add email for alerts
+  4.2.  Budgets-> Cost explorer -> Enable cost explorer
+  4.3.  Budgets->customize->Cost Budget
+  4.4   Create alerts
