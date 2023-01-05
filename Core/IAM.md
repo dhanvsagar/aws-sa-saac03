@@ -1,7 +1,7 @@
 ## IAM
 - Global Service
 - Every Aws accunt has its own IAM and it trusts IAM completely
--  Cost
+- No additional Cost
 - Allows Identify Federation and MFA
 
 #### Fuctions of IAM
